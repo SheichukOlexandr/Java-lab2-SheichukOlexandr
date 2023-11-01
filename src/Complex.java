@@ -1,3 +1,4 @@
+// Завдання 3. Варіант 9
 import java.util.Scanner;
 
 public class Complex {
