@@ -1,3 +1,4 @@
+//Завдання 2. Варіант 6
 import java.lang.Math;
 
 public class Circle {
